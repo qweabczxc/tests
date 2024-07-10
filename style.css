@@ -1,12 +1,15 @@
 div{
-    font-size: 40px;
+    font-size: 15dvh;
     background-color: rgb(255, 123, 123);
-    width: 50px;
+    width: 40dvh;
+    height: 20dvh;
     text-align: center;
     cursor: pointer;
-    
+    align-content: center;
 }
 body{
     display: flex;
-    gap: 40px;
+    gap: 2dvh;
+    flex-wrap: wrap;
+    justify-content: center;
 }
