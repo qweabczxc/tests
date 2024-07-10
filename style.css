@@ -1,0 +1,12 @@
+div{
+    font-size: 40px;
+    background-color: rgb(255, 123, 123);
+    width: 50px;
+    text-align: center;
+    cursor: pointer;
+    
+}
+body{
+    display: flex;
+    gap: 40px;
+}
